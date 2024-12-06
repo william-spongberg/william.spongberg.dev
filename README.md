@@ -5,7 +5,7 @@
 - [HTML](html/index.html)
 - [JavaScript](js/index.html)
 - [React](react/index.html)
-- [Deno](react/index.html)
+- [Deno](deno/index.html)
 
 ## About Me
 
