@@ -19,7 +19,7 @@ Python | C | C# | Java | SQL | JavaScript | Flutter | Dart | Prolog | Haskell
 
 - [**Google Chrome Built-In AI Challenge**](https://github.com/Chillerbag/Applyify)
 
-  I recently competed in the Google AI Challenge, where myself and a friend created a Google Chrome extension using Google's new Gemini Nano, a locally-run and private AI model. Our extension, called Applify, streamlines the process of applying for jobs online by automatically finding the job's required skills, updating the user's resume and creating a draft cover letter. Find the challenge information [here](https://googlechromeai.devpost.com/).
+  I recently competed in the Google AI Challenge, where myself and [Ethan Hawkins](https://www.linkedin.com/in/ethan-hawkins-24486a244/) created a Google Chrome extension using Google's new Gemini Nano, a locally-run and private AI model. Our extension, called Applify, streamlines the process of applying for jobs online by automatically finding the job's required skills, updating the user's resume and creating a draft cover letter. Find the challenge information [here](https://googlechromeai.devpost.com/).
 
 - [**Bouncy Balls**](https://github.com/william-spongberg/BouncyBalls)
 
@@ -28,6 +28,8 @@ Python | C | C# | Java | SQL | JavaScript | Flutter | Dart | Prolog | Haskell
 - **Conway's Game of Life - now in [Haskell](https://github.com/william-spongberg/haskell-game_of_life) and [Prolog](https://github.com/william-spongberg/prolog-game_of_life)!**
 
   In preparation for my Declarative Programming exam in the seconds half of 2024, I implemented Conway's Game of Life into both Haskell and Prolog. Both versions run fully in the terminal without any extra libraries.
+
+- **Other Projects** - TODO
 
 ## Resume
 
