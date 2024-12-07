@@ -1,11 +1,11 @@
 # william.spongberg.dev
 
-#### Check out other versions of this website
+#### Check out other versions of this website!
 
-- [**HTML**](html/index.html)
-- [**JavaScript**](js/index.html)
-- [**React**](react/index.html)
-- [**Deno**](deno/index.html)
+- [**HTML**](html/index.html) IN PROGRESS
+- [**JavaScript**](js/index.html) TODO
+- [**React**](react/index.html) TODO
+- [**Deno**](deno/index.html) TODO
 
 ## About Me
 
@@ -29,13 +29,11 @@ These are projects I've completed in my spare time for fun or to learn new tech.
 
 - **Conway's Game of Life - now in [**Haskell**](https://github.com/william-spongberg/haskell-game_of_life) and [**Prolog**](https://github.com/william-spongberg/prolog-game_of_life)!**
 
-  In preparation for my **Declarative Programming** exam in the second half of 2024, I implemented **Conway's Game of Life** into both **Haskell** and **Prolog**. Both versions run fully in the terminal without any extra libraries.
-
-- **Other Projects** - TODO
+  In preparation for my **Declarative Programming** exam in the second half of 2024, I implemented **Conway's Game of Life** into both **Haskell** and **Prolog**. Both versions run fully in the terminal without any extra libraries. I found Haskell to be far more intuitive and easy to work with than Prolog, but I enjoyed the challenge of working with both languages and learning more about functional and logic programming, and it was especially fun to see 
 
 ### School Projects
 
-These are projects I've completed as part of my university studies. There are other projects I completed in 2022 and 2023, but these have been lost to time (and to my poor git hygiene).
+These are projects I've completed as part of my university studies. There are other projects I completed in 2022 and 2023, but these have unfortunately been lost to time. It actually brings me great pain to look at my first couple projects and see how poor my code quality and aversion to git was - I'm glad to see how far I've come since then.
 
 ### 2024
 
@@ -51,17 +49,41 @@ These are projects I've completed as part of my university studies. There are ot
 
 - **COMP30022 - IT Project**
 
-  This class was focused on creating a software project from scratch, with a focus on the software development lifecycle and agile methodologies. My group, Sprout, was tasked by [**NoMoss**](https://www.nomoss.co/) to create an **app** that would allow users to track, improve and master skills through the ancient Japanese martial art concept of [**Shuhari**](https://en.wikipedia.org/wiki/Shuhari). We created **Momentum Master** and were well received by both our client and our subject coordinator, and were able to have the app fully functioning and ready for release by the time of the handover.
+  This class was focused on creating a software project from scratch, with a focus on the software development lifecycle and agile methodologies. My group, Sprout, was tasked by [**NoMoss**](https://www.nomoss.co/) to create an **app** that would allow users to track, improve and master skills through the ancient Japanese martial art concept of [**Shuhari**](https://en.wikipedia.org/wiki/Shuhari). We created the **Momentum Master** app and were well received by both our client and our subject coordinator, and were able to have the app fully functioning and ready for release by the time of the handover.
 
-  I was tasked with helping to implement the backend for this app through a **REST** api in **Node.js** that was hosted by Vercel, and also helped work on the front end of the app created through **Flutter** and **Dart**.
+  I was tasked with helping to implement the backend for this app through a **REST API** in **Node.js** using **TypeScript** that was hosted by **Vercel**, and also helped work on the front end of the app created through **Flutter** and **Dart**.
 
   Unfortunately, the app is not available for download as it was a private project that we handed over to our client NoMoss and is not for commercial use, but I am happy to discuss the project and show off the app if you are interested.
 
+- **COMP30020 - Declarative Programming**
+
 #### Sem 1
+
+- **SWEN30006 - Software Modelling and Design**
+
+- **COMP30023 - Computer Systems**
+
+- **COMP30024 - Artificial Intelligence**
 
 ### 2023
 
 #### Sem 2
+
+- **SWEN20003 - Object Oriented Software Development**
+
+- **COMP20003 - Algorithms and Data Structures**
+
+- **INFO20003 - Database Systems**
+
+### 2022
+
+#### Sem 2
+
+- **COMP10002 - Foundations of Algorithms**
+
+#### Sem 1
+
+- **COMP10001 - Foundations of Computing**
 
 ## Resume
 
