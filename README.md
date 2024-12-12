@@ -3,9 +3,9 @@
 #### Check out other versions of this website!
 
 - [**HTML**](html/index.html) IN PROGRESS
+- [**HTML/CSS**](html-css/index.html) TODO
 - [**JavaScript**](js/index.html) TODO
-- [**React**](react/index.html) TODO
-- [**Deno**](deno/index.html) TODO
+- [**threeJS**](threejs/index.html) TODO
 
 ## About Me
 
@@ -81,7 +81,7 @@ These are projects I've completed as part of my university studies. There are ot
 
 - **COMP30023 - Computer Systems**
 
-  
+
 
 - **COMP30024 - Artificial Intelligence**
 
